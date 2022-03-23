@@ -10,3 +10,8 @@ Open the `.blend` file provided in this repository. Click on `Render`-->`Render 
 ![Final Render](/images/comp.jpg)
 
 ![Clay Render](/images/clay.jpg)
+
+This scene uses the following free assets from [BlendSwap](https://blendswap.com/):
+
+* [Rigged Mirrors and Lenses](https://blendswap.com/blend/22468) by user *bandages*
+* [CGC Classic: Rope](https://blendswap.com/blend/21255) by user *cgcookie*
